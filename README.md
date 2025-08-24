@@ -1,2 +1,25 @@
-# Voxa
-Voxa is a conversational AI platform focused on creating interactive, context-driven chats. Powered by retrieval-augmented generation, vector embeddings, and Redis technology, Voxa delivers responses that are not only fast but also enriched with real-time knowledge, making conversations sharper and more insightful.
+# 🔊 Voxa  
+
+Voxa is a **web-based conversational AI platform** built with [Next.js](https://nextjs.org/).  
+It’s designed to deliver **intelligent, context-aware, and engaging chat experiences** powered by **Retrieval-Augmented Generation (RAG)**, **vector embeddings**, **Redis**, and **Upstash**.  
+
+This project was bootstrapped using [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).  
+
+---
+
+## 🚀 Getting Started  
+
+To start the development server, run one of the following commands:  
+
+```bash
+# Using npm
+npm run dev
+
+# Using yarn
+yarn dev
+
+# Using pnpm
+pnpm dev
+
+# Using bun
+bun dev
