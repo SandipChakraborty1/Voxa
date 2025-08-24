@@ -23,3 +23,19 @@ pnpm dev
 
 # Using bun
 bun dev
+
+
+
+---
+ 
+## Learn More
+If you’re new to Next.js, here are some great resources to explore:
+
+📖 Next.js Documentation
+ – Official docs for features & APIs.
+
+🧑‍💻 Learn Next.js
+ – Interactive Next.js tutorial.
+
+💻 Next.js GitHub Repository
+ – Source code & community.
