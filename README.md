@@ -28,14 +28,10 @@ bun dev
 
 ---
  
-## Learn More
-If you’re new to Next.js, here are some great resources to explore:
+## 📚 Learn More  
 
-📖 Next.js Documentation
- – Official docs for features & APIs.
+If you’re new to Next.js, here are some great resources to explore:  
 
-🧑‍💻 Learn Next.js
- – Interactive Next.js tutorial.
-
-💻 Next.js GitHub Repository
- – Source code & community.
+- 📖 [Next.js Documentation](https://nextjs.org/docs) – Official docs for features & APIs.  
+- 🧑‍💻 [Learn Next.js](https://nextjs.org/learn) – Interactive Next.js tutorial.  
+- 💻 [Next.js GitHub Repository](https://github.com/vercel/next.js/) – Source code & community.  
